@@ -1,7 +1,7 @@
 <!-- title / description (start) -->
 <h2 align="center">Shopify Fresh</h2>
 
-Shopify Fresh is a development environment for Shopify Online Store 2.0 theme development based off [Shopify Theme Lab](https://themelab.uicrooks.com/). It utilizes [Shopify CLI](https://shopify.dev/themes/tools/cli) and is bundled with [Alpine.js](https://alpinejs.dev/) and [Tailwind 3](https://tailwindcss.com/). Includes Webpack, SASS, ESLint, Autoprefixer.
+Shopify Fresh is a development environment for Shopify Online Store 2.0 theme development based off [Shopify Theme Lab](https://github.com/uicrooks/shopify-theme-lab). It utilizes [Shopify CLI](https://shopify.dev/themes/tools/cli) and is bundled with [Alpine.js](https://alpinejs.dev/) and [Tailwind 3](https://tailwindcss.com/). Includes Webpack, SASS, ESLint, Autoprefixer.
 
 ### Installation
 ---
